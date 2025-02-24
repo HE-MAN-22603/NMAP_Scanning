@@ -2,7 +2,6 @@
 
 This Python script is a **basic network scanning tool** that utilizes the `nmap` library to perform port scans on a target IP address. It allows users to select different scanning techniques and provides detailed scan results, including open ports, services, and protocols.  
 
-
 ### Features 
 ✅ **User Input for Target IP Address**  
 ✅ **Multiple Scan Modes:**  
@@ -15,14 +14,14 @@ This Python script is a **basic network scanning tool** that utilizes the `nmap`
 ### Usage 
 1. Install required dependencies:  
 
-![Install_required_dependencies](https://github.com/HE-MAN-22603/NMAP_Scanning/blob/main/Install_required_dependencies.png)
+   ![Install_required_dependencies](https://github.com/HE-MAN-22603/NMAP_Scanning/blob/main/Install_required_dependencies.png)
    
-1. Run the script:
+2. Run the script:
    
    ![Run_the_script](https://github.com/HE-MAN-22603/NMAP_Scanning/blob/main/Run_the_script.png)
    
-4. Enter the **IP address** and select the scan type.  
-5. View the scan results, including open ports and running services. 
+3. Enter the **IP address** and select the scan type.  
+4. View the scan results, including open ports and running services. 
 
 ### Requirements
 - Python 3  
