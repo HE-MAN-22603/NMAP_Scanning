@@ -15,7 +15,7 @@ This Python script is a **basic network scanning tool** that utilizes the `nmap`
 ### Usage 
 1. Install required dependencies:  
 
-![Install required dependencies](images/Install_required_dependencies.png)
+![Install_required_dependencies](https://github.com/HE-MAN-22603/NMAP_Scanning/blob/main/Install_required_dependencies.png)
    
 1. Run the script:
    
