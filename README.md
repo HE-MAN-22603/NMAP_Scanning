@@ -19,7 +19,7 @@ This Python script is a **basic network scanning tool** that utilizes the `nmap`
    
 1. Run the script:
    
-   ![Run the script](images/Run_the_script.png)
+   ![Run_the_script](images/Run_the_script.png)
    
 4. Enter the **IP address** and select the scan type.  
 5. View the scan results, including open ports and running services. 
@@ -37,4 +37,4 @@ This Python script is a **basic network scanning tool** that utilizes the `nmap`
 
 ### **Output**
 
-![Nmap output.png](images/nmap_output.png)
+![nmap output.png](images/nmap_output.png)
