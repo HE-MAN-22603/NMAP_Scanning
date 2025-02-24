@@ -37,4 +37,4 @@ This Python script is a **basic network scanning tool** that utilizes the `nmap`
 
 ### **Output**
 
-![nmap output.png](images/nmap_output.png)
+![nmap_output](images/nmap_output.png)
