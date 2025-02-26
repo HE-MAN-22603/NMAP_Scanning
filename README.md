@@ -1,4 +1,4 @@
-### Simple Nmap Scan Tool
+### Nmap Scan Tool
 
 This Python script is a **basic network scanning tool** that utilizes the `nmap` library to perform port scans on a target IP address. It allows users to select different scanning techniques and provides detailed scan results, including open ports, services, and protocols.  
 
